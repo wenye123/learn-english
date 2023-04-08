@@ -1,0 +1,12 @@
+{
+  "name": "learn-english",
+  "version": "1.0.0",
+  "description": "学习英语",
+  "main": "",
+  "scripts": {
+    "push": "git add -A && git commit -m \"更新\" && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
