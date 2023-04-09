@@ -20,6 +20,7 @@
       a cup of water
   2. 动词(verbs): 啥句子成分都能干
     1. 谓语动词: 表示主语动作或状态，有时要搭配助动词
+      注意: 一个句子只能有一个谓语动词 剩下的长得像动词的都是非谓语动词
       1. 特点
         1. 时态： 
           1. 种类: 16种时态(时间*状态)
@@ -66,7 +67,7 @@
         1. 现在分词
           The boy watching the movie is my brother
         2. 过去分词
-          The book written by Mark Twain is a classic
+          The book written by Mark Twain is a classic 
   2. 冠词(articles): 说明人和物
   3. 代词(pronouns): 代替人和物
   4. 形容词(adjectives): 形容人与物
