@@ -95,12 +95,6 @@
         Not knowing what to eat, the rabbit skipped lunch; 
           Because he didnt konw what to eat, the rabbit skipped lunch; -- 原因状语从句
       3. 。。。
-      4. 独立主格 
-        1. 解释:
-          除了谓语动词 其他动词变成过去分词或者现在分词的用法 叫做独立主格(因为作为状语的句子里面隐藏了一层主语如weather)
-        2. 例子
-        the weather permitting, the rabbit will go out;
-          if the weather permits, the rabbit will go out;
 
 4. 过去分词
   1. 解释: 相当于形容词
@@ -138,11 +132,7 @@
           Born in a rabbit family, the rabbit has been growing carrots all his life; -- 由于出生在一个兔子家庭 兔子种了一辈子胡萝卜
         3. 表条件 
           Given another chance, the rabbit would go to the wolfs party; -- 如果再给兔子一次机会 他会去参加狼的聚会
-        4. 独立主格
-          the work finished, the rabbit went home;
-            The work was finished, and/so the rabbit went home;
-            after the work was finished, the rabbit went home;
-
+        4. 。。。
 
 
 

@@ -57,7 +57,7 @@
           2. do(does did done) -- 表示疑问或否定语气
           3. have(has had) -- 表示完成时态
             做实义动词，表示有
-          4. can(might must should) -- 表情态 也称为情态动词
+          4. can(will, might must should) -- 表情态 也称为情态动词
     2. 非谓语动词: 不能单独做谓语，在句子中主要充当各种补足成分(表语 宾补 定语 状语等)，几乎能取代所有从句从而简化句子
       1. 动词不定式: 通常是to+动词原型，主要充当 主语 宾语 表语 定语 状语等
         To study is important for students
