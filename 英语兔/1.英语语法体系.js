@@ -1,16 +1,19 @@
 "语法的目的就是为了造句"
   英语有中文没有
     谓语动词
-      时态&时态变位
-      语气
+      时态&时态变位&语气
       助动词
-      系动词
-      使役动词
     从句
     词性
-      冠词
-      介词
-一个句子 先判断助动词 在判断谓语动词 最后判断非谓语动词
+      冠词&介词
+一个句子 
+  - 判断助动词(可以有多个)
+  - 判断谓语动词
+    - 判断是否使役动词(+宾语+宾补(如果是不定式要省略to(get除外)))
+    - 其他情况
+      - 有些动词后面不能接不定式做宾语
+  - 判断非谓语动词
+  - 判断是8种句型的哪一个
 
 
 词性(词类): 10大词类
@@ -48,18 +51,64 @@
           6. 感叹语气
       2. 分类 -- 刚好对应5种基本句式
         1. 不及物动词 -- 主语+动词
+          sleep walk dance run smile laugh cry sing。。。
         2. 及物动词 -- 主语+动词+宾语
+          achieve clean eat finish maintain。。。
         3. 双及物动词 -- 主语+动词+间接宾语+直接宾语
+          give show buy bring tell。。。
         4. 复杂及物动词 -- 主语+动词+宾语+宾补
+          make find keep have consider。。。
         5. 系动词 -- 主语+动词+表语
-        6. 助动词
-          1. be(am is are was were been) -- 表示进行时态，被动语态等
-            也能作为系动词 表赋值
-          2. do(does did done) -- 表示疑问或否定语气
-          3. have(has had) -- 表示完成时态
-            做实义动词，表示有
-          4. can(will, might must should) -- 表情态 也称为情态动词
-          5. 半助动词(be able to...)
+          1. be动词类
+            am; is; are; was; were;
+          2. 感官类
+            look -- 看起来
+            seem -- 看起来
+            sound -- 听起来
+            smell -- 闻起来
+            taste -- 尝起来
+            feel -- 摸起来，觉得，感到
+          3. 变化类
+            become, get, turn, grow, prove, remain, stay, appear
+        6. 注意特殊: 使役动词(表 使让令) 
+          1. 后接成分宾语+宾补，宾补可以是不加to的不定式(get除外) 形容词 副词 过去分词。。。
+          2. 常见的有 make let have get force leave。。。
+            1. make 
+              1. 做使役动词 -- 表示强迫某人做某事
+                1. +不带to的不定式
+                  I make the wolf eat carrots;
+                2. +形容词
+                  the carrot make the wolf full;
+            2. let 
+              1. 做使役动词 -- 允许某人做某事
+                1. +不带to的不定式
+                  I will let the wolf eat some apple;
+                2. +副词
+                  let me out;
+            3. have
+              1. 做实义动词: 表示有
+                I have an apple;
+              2. 做助动词
+                I have eaten the apple;
+              3. 做使役动词 -- 表示给某人任务/责任做。。。
+                1. +不带to的不定式
+                  I will have the wolf wash the dishes; -- 我让狼洗盘子
+                  I had someone wash my car; -- 我让某人洗了我的车
+                2. +过去分词(能隐藏someone概念)
+                  1. 例子
+                    I had my car washed; -- 我让某人洗了我的车 washed还能表被动
+                      My card was washed by someone as I wanted;
+                  2. 注意: 这种句型还能表遭遇不幸
+                    I had my carrot stolen yesterday; 
+            4. get
+              1. 做实义动词: 表示得到 明白
+                I got a letter from a friend;
+                Do you get what I mean;
+              2. 做使役动词 -- 表示说服/鼓励。。。做。。。
+                1. +接带to的不定式
+                  I will get the wolf to clean the dishes;
+                2. +过去分词
+                  I got my car washed; -- 和I had my car washed;基本没区别
     2. 非谓语动词: 不能单独做谓语，在句子中主要充当各种补足成分(表语 宾补 定语 状语等)，几乎能取代所有从句从而简化句子
       1. 动词不定式: 通常是to+动词原型，主要充当 主语 宾语 表语 定语 状语等
         To study is important for students
@@ -70,7 +119,15 @@
           The boy watching the movie is my brother
         2. 过去分词
           The book written by Mark Twain is a classic 
-  2. 冠词(articles): 说明人和物
+    3. 助动词
+      1. be(am is are was were been) -- 表示进行时态，被动语态等
+        也能作为系动词 表赋值
+      2. do(does did done) -- 表示疑问或否定语气
+      3. have(has had) -- 表示完成时态
+        做实义动词，表示有
+      4. can(will, might must should) -- 表情态 也称为情态动词
+      5. 半助动词(be able to...)
+2. 冠词(articles): 说明人和物
   3. 代词(pronouns): 代替人和物
   4. 形容词(adjectives): 形容人与物
   5. 数词(numerals): 表数量
@@ -111,17 +168,28 @@
             wenye smells nice
           6. 第5种(主系表)的倒装: there be句型
             there is wenye
+            wenye smells nice
           7. 第1种(主语+谓语动词)的延伸: 主语 + 谓语动词 + 状语
             I live in china 
           8. 第4种(主语+谓语动词+宾语+宾补)的延伸: 主语 + 谓语动词 + 宾语 + 状语
             I put carrot on the table
   2. 并列复合句(compound sentence) -- 句子的简单叠加 并列关系
     i like code, and you like design
-  3. 主从复合句(complex sentence) -- 句子之间从属关系
+  3. 主从复合句/复杂句(complex sentence) -- 句子之间从属关系
     名词性从句
       简单句做主语 -- 主语从句
       简单句做宾语 -- 宾语从句
+      简单句做宾补 -- 宾补从句
       简单句做表语 -- 表语从句
       简单句做同位语 -- 同位语从句
-    简单句做定语 -- 定语从句
+    简单句做定语 -- 定语从句/关系从句/形容词从句
     简单句做状语 -- 状语从句
+      1. 表时间
+      2. 表地点
+      3. 表条件
+      4. 表让步
+      5. 表方式
+      6. 表比较
+      7. 表原因
+      8. 表目的
+      9. 表结果
