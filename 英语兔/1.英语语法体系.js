@@ -15,7 +15,7 @@
   - 判断非谓语动词
   - 判断是8种句型的哪一个
 词性变化
-  
+
   名词变名词
     名词+动名词
       english speaking;
@@ -31,17 +31,6 @@
     1. the + 形容词 
       the rich; -- 富人
   介词短语可以变成任何次
-
-疑问句(没看到视频提到)
-  一般疑问句: 陈述句前加助动词或be动词原型来构成的
-    Do you like pizza?
-    Does she work in a hospital?
-  特殊疑问句: 特殊疑问词 + 一般疑问句
-    what do you like?
-    Where do you live?
-    Why did you miss the meeting yesterday?
-
-
 
 
 词性(词类): 10大词类
@@ -273,6 +262,48 @@
   7. 介词(prepositions): 虚词 表示和其他词关系的词
   8. 叹词(interjections): 虚词 表感叹
   9. 连词(conjunctions): 虚词 连接词与句
+    1. 并列连词: 连接并列,同等语法地位的 单词,词组或句子
+      1. 并列关系
+        1. and
+          the rabbit is smart and cute; // 这只兔子聪明且可爱
+        2. both..and..
+          Both the rabbit and the wolf like carrots; // 兔子和狼都喜欢胡萝卜
+        3. not only...but also...(不仅。。而且。。)
+          The rabbit not only teaches English but also makes videos; // 兔子不仅教英语还做视频
+          The rabbit teaches not only English but also German
+        4. neither...nor..(既不。。也不。。)
+          The rabbit likes neither apples nor pears; // 兔子既不喜欢苹果也不喜欢梨子
+          Netither the rabbit nor the wolf likes apples; // 兔子和狼都不喜欢苹果
+      2. 选择关系
+        1. or(或者)
+          what does the rabiit like? apples or carrots?
+        2. either...or...(要么。。要么。。)
+          You can either study harder or fail the exam; // 你要么更加努力学习，要么就考试不及格
+        3. or/`or else`/ otherwise (否则)
+          Hurry up, or/`or else`/ otherwise you will be late;
+      3. 转折关系
+        1. but/yet(但是)
+          I am happy, but/yet I am tired; // 我很开心 但是我很累
+      4. 因果关系
+        1. so/therefore+(所以),
+          The rabbit is busy, so he won''t go to the party tonight;
+            The rabbit is busy, therefore, he won''t go to the party tonight;
+        2. for(因为)
+          The rabbit will skip lunch, for he is busy to making a video
+    2. 从属连词: 连接从句
+      1. 引导名词性从句: 5w1h(when where who what why how)+whether+that
+      2. 引导状语从句: 。。。
+  *. 限定词
+    1. 种类: 冠词 名词所有格 物主代词 指示代词 疑问代词 关系代词 不定代词 量词 基数词 序数词
+    2. 位置
+      1. 前位限定词: 某些不定代词 倍数词 分数词
+      2. 中位限定词: 冠词 物主代词 某些不定代词
+      3. 后位限定词: 量词 基数词 序数词
+      3. 例子
+        half my carrot; her last carrot; all ten carrots;
+
+
+
 
 句子成分: 8种句子成分
   1. 主语
@@ -288,38 +319,58 @@
     wenye, a programer, write code
 
 句子
-  1. 简单句(simple sentences) -- 什么 + 怎么样
-    - 主语(subject) + 谓语(predicate)
-    - 人物 + 动作/发生了什么事
-        动作(动词verbs): 8种基本句型
-          1. 可以独立完成的动作: 主语 + 不及物动词
-            wenye sleeps
-          2. 有一个动作的承受者: 主语 + 单及物动词 + 宾语(object)
-            wenye likes you
-          3. 有2个动作承受者: 主语 + 双及物动词 + 间接宾语(indirect object) + 直接宾语(direct object)
-            wenye teaches you english
-          4. 有一个动作承受者(但需补充): 主语 + 复杂及物动词 + 宾语 + 宾语补足语
-            wenye considers you smart
-          5. 非动作: 主语 + 系动词 + 主语补语(表语)
-            系动词： 表示联系 就是将后面的补语赋值给前面主语
-            wenye is talk
-            wenye smells nice
-          6. 第5种(主系表)的倒装: there be句型
-            there is wenye
-            wenye smells nice
-          7. 第1种(主语+谓语动词)的延伸: 主语 + 谓语动词 + 状语
-            I live in china 
-          8. 第4种(主语+谓语动词+宾语+宾补)的延伸: 主语 + 谓语动词 + 宾语 + 状语
-            I put carrot on the table
-  2. 并列复合句(compound sentence) -- 句子的简单叠加 并列关系
-    i like code, and you like design
-  3. 主从复合句/复杂句(complex sentence) -- 句子之间从属关系
-    名词性从句
-      简单句做主语 -- 主语从句
-      简单句做宾语 -- 宾语从句
-      简单句做宾补 -- 宾补从句
-      简单句做表语 -- 表语从句
-      简单句做同位语 -- 同位语从句
-    简单句做定语 -- 定语从句/关系从句/形容词从句
-    简单句做状语 -- 状语从句
-      表时间 表地点 表条件 表让步 表方式 表比较 表原因 表目的 表结果
+  1. 按结构分类
+    1. 简单句(simple sentences) -- 什么 + 怎么样
+      - 主语(subject) + 谓语(predicate)
+      - 人物 + 动作/发生了什么事
+          动作(动词verbs): 8种基本句型
+            1. 可以独立完成的动作: 主语 + 不及物动词
+              wenye sleeps
+            2. 有一个动作的承受者: 主语 + 单及物动词 + 宾语(object)
+              wenye likes you
+            3. 有2个动作承受者: 主语 + 双及物动词 + 间接宾语(indirect object) + 直接宾语(direct object)
+              wenye teaches you english
+            4. 有一个动作承受者(但需补充): 主语 + 复杂及物动词 + 宾语 + 宾语补足语
+              wenye considers you smart
+            5. 非动作: 主语 + 系动词 + 主语补语(表语)
+              系动词： 表示联系 就是将后面的补语赋值给前面主语
+              wenye is talk
+              wenye smells nice
+            6. 第5种(主系表)的倒装: there be句型
+              there is wenye
+              wenye smells nice
+            7. 第1种(主语+谓语动词)的延伸: 主语 + 谓语动词 + 状语
+              I live in china 
+            8. 第4种(主语+谓语动词+宾语+宾补)的延伸: 主语 + 谓语动词 + 宾语 + 状语
+              I put carrot on the table
+    2. 并列复合句(compound sentence) -- 句子的简单叠加 并列关系
+      i like code, and you like design
+    3. 主从复合句/复杂句(complex sentence) -- 句子之间从属关系
+      名词性从句
+        简单句做主语 -- 主语从句
+        简单句做宾语 -- 宾语从句
+        简单句做宾补 -- 宾补从句
+        简单句做表语 -- 表语从句
+        简单句做同位语 -- 同位语从句
+      简单句做定语 -- 定语从句/关系从句/形容词从句
+      简单句做状语 -- 状语从句
+        表时间 表地点 表条件 表让步 表方式 表比较 表原因 表目的 表结果
+  2. 按用途分类
+    1. 陈述句
+    2. 疑问句
+      1. 一般疑问句: 陈述句前加助动词/be动词/情态动词来构成的
+        Do you like pizza?
+        Does she work in a hospital?
+        can I help you?
+      2. 特殊疑问句: 特殊疑问词 + 一般疑问句
+        what do you like?
+        Where do you live?
+        Why did you miss the meeting yesterday?
+      3. 选择疑问句
+        Did the rabbit eat a carrot or an apple;
+      4. 反义疑问句
+        The rabbit ate a carrot, didn''t he?
+    3. 祈使句
+      Eat the carrot!
+    4. what a tasty carrot!
+
