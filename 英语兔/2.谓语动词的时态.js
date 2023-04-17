@@ -3,8 +3,14 @@
     1. 语法
       1. 动词原型
          eat carrots
-      2. 动词原型+s(第三人称单数)
-        she eats carrots
+      2. 第三人称单数
+        1. 规则
+          1. 大多数动词: 动词原型+s; // work->works
+          2. 辅音字母+y结尾: 把y改i再加es; // study->studies try->tries
+          3. 以sh ch x s o结尾的动词: 动词原型+es: // go->goes watch->watches;
+          4. 特殊情况; // be->is have->has
+        2. 例子
+          she eats carrots
     2. 特点
       1. 表达事实
         The sun rises in the east

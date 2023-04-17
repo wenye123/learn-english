@@ -15,6 +15,7 @@
   - 判断非谓语动词
   - 判断是8种句型的哪一个
 词性变化
+  
   名词变名词
     名词+动名词
       english speaking;
@@ -30,6 +31,16 @@
     1. the + 形容词 
       the rich; -- 富人
   介词短语可以变成任何次
+
+疑问句(没看到视频提到)
+  一般疑问句: 陈述句前加助动词或be动词原型来构成的
+    Do you like pizza?
+    Does she work in a hospital?
+  特殊疑问句: 特殊疑问词 + 一般疑问句
+    what do you like?
+    Where do you live?
+    Why did you miss the meeting yesterday?
+
 
 
 
@@ -175,6 +186,9 @@
                 2. +过去分词
                   I got my car washed; -- 和I had my car washed;基本没区别
       3. 主谓一致
+        1. 语法一致
+        2. 意义一致
+        3. 就近一致
     2. 非谓语动词: 不能单独做谓语，在句子中主要充当各种补足成分(表语 宾补 定语 状语等)，几乎能取代所有从句从而简化句子
       1. 动词不定式: 通常是to+动词原型，主要充当 主语 宾语 表语 定语 状语等
         To study is important for students
