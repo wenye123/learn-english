@@ -22,7 +22,7 @@
         if I should see the rabbit tomorrow, i would bite him; // 正确
     3.  表示和过去时间相反 
       1. 语法
-        条件句(had+动词过去分词) + 主句(would have + 动词过去分词)
+        条件句(had+动词过去分词) + 主句(would + have + 动词过去分词)
       2. 例子
         if I saw the rabbit a few days ago, I would bite him; // 错误
         if I had seen the rabbit a few days ago, I would have bitten him; // 正确
@@ -47,11 +47,13 @@
           I would rather that you hadnt eaten the carrot; // 我宁愿你没吃(已经吃了)
     2. demand/suggest/insist/order等 -- 动词时态 + should+动词原型(should可以省略)
       1. 表示对现在愿望
-        I demand that you should give me a carrot;
+        I demand that you (should) give me a carrot; -- 宾语从句 
+        It is demanded that you (should) give me a carrot; -- 主语从句 
+        the demand is that you (should) give me a carrot; -- 表语从句 
       2. 表示对将来愿望(视频没说 自己想的)
-        I will demand that you should give me a carrot;
+        I will demand that you (should) give me a carrot;
       3. 表示对过去愿望
-        I demanded that you should give me a carrot;
+        I demanded that you (should) give me a carrot;
 4. 疑问语气
   1. 陈述语气+前置助动词
     Did the rabbit eat the carrot?
