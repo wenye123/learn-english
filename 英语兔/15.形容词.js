@@ -89,7 +89,7 @@
         the more, the better; -- 省略语境 // 越多越好
     2. 最高级(需要加the表特指)
       1. in+地点 of+所属范围
-        Magic mirror on the wall, whol is the fairest one of all;
+        Magic mirror on the wall, who is the fairest one of all;
       2. 其他
         snow white is the most beautiful woman in the world;     
         the queen is a most beautiful woman; -- 这里的most表示非常 不是最高级 所以前面可以用a

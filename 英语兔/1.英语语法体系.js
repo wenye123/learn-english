@@ -46,7 +46,47 @@
         3. 双及物动词 -- 主语+动词+间接宾语+直接宾语
           give show buy bring tell。。。
         4. 复杂及物动词 -- 主语+动词+宾语+宾补(使役动词的宾补可以是不加to的不定式)
-          make find keep have consider。。。
+          1. 例子
+            make find keep have consider。。。
+          2. 注意特殊: 使役动词(表 使让令) 
+            1. 后接成分宾语+宾补，宾补可以是不加to的不定式(get除外) 形容词 副词 过去分词。。。
+            2. 常见的有 make let have get force leave。。。
+              1. make 
+                1. 做使役动词 -- 表示强迫某人做某事
+                  1. +不带to的不定式
+                    I make the wolf eat carrots;
+                  2. +形容词
+                    the carrot make the wolf full;
+              2. let 
+                1. 做使役动词 -- 允许某人做某事
+                  1. +不带to的不定式
+                    I will let the wolf eat some apple;
+                  2. +副词
+                    let me out;
+              3. have
+                1. 做实义动词: 表示有
+                  I have an apple;
+                2. 做助动词
+                  I have eaten the apple;
+                3. 做使役动词 -- 表示给某人任务/责任做。。。
+                  1. +不带to的不定式
+                    I will have the wolf wash the dishes; -- 我让狼洗盘子
+                    I had someone wash my car; -- 我让某人洗了我的车
+                  2. +过去分词(能隐藏someone概念)
+                    1. 例子
+                      I had my car washed; -- 我让某人洗了我的车 washed还能表被动
+                        My card was washed by someone as I wanted;
+                    2. 注意: 这种句型还能表遭遇不幸
+                      I had my carrot stolen yesterday; 
+              4. get
+                1. 做实义动词: 表示得到 明白
+                  I got a letter from a friend;
+                  Do you get what I mean;
+                2. 做使役动词 -- 表示说服/鼓励。。。做。。。
+                  1. +接带to的不定式
+                    I will get the wolf to clean the dishes;
+                  2. +过去分词
+                    I got my car washed; -- 和I had my car washed;基本没区别
         5. 系动词 -- 主语+动词+表语
           1. be动词类
             am; is; are; was; were;
@@ -59,45 +99,7 @@
             feel -- 摸起来，觉得，感到
           3. 变化类
             become, get, turn, grow, prove, remain, stay, appear
-        6. 注意特殊: 使役动词(表 使让令) 
-          1. 后接成分宾语+宾补，宾补可以是不加to的不定式(get除外) 形容词 副词 过去分词。。。
-          2. 常见的有 make let have get force leave。。。
-            1. make 
-              1. 做使役动词 -- 表示强迫某人做某事
-                1. +不带to的不定式
-                  I make the wolf eat carrots;
-                2. +形容词
-                  the carrot make the wolf full;
-            2. let 
-              1. 做使役动词 -- 允许某人做某事
-                1. +不带to的不定式
-                  I will let the wolf eat some apple;
-                2. +副词
-                  let me out;
-            3. have
-              1. 做实义动词: 表示有
-                I have an apple;
-              2. 做助动词
-                I have eaten the apple;
-              3. 做使役动词 -- 表示给某人任务/责任做。。。
-                1. +不带to的不定式
-                  I will have the wolf wash the dishes; -- 我让狼洗盘子
-                  I had someone wash my car; -- 我让某人洗了我的车
-                2. +过去分词(能隐藏someone概念)
-                  1. 例子
-                    I had my car washed; -- 我让某人洗了我的车 washed还能表被动
-                      My card was washed by someone as I wanted;
-                  2. 注意: 这种句型还能表遭遇不幸
-                    I had my carrot stolen yesterday; 
-            4. get
-              1. 做实义动词: 表示得到 明白
-                I got a letter from a friend;
-                Do you get what I mean;
-              2. 做使役动词 -- 表示说服/鼓励。。。做。。。
-                1. +接带to的不定式
-                  I will get the wolf to clean the dishes;
-                2. +过去分词
-                  I got my car washed; -- 和I had my car washed;基本没区别
+        
       3. 主谓一致
         1. 语法一致
         2. 意义一致
